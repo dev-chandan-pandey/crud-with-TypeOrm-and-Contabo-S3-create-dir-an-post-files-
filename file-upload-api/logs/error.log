@@ -1,0 +1,97 @@
+2024-09-21T06:02:03.337Z [ERROR]: Error uploading file: example.pdf, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:02:03.339Z [ERROR]: Error during file upload for file: example.pdf, Error: Error: Error uploading file
+2024-09-21T06:08:55.211Z [ERROR]: Error checking if directory exists: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:08:55.390Z [ERROR]: Error creating directory: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:08:55.393Z [ERROR]: Error during file upload for file: example.pdf, Error: Error: Error creating directory
+2024-09-21T06:11:44.518Z [ERROR]: Error checking if directory exists: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:11:44.904Z [ERROR]: Error creating directory: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:11:44.905Z [ERROR]: Error during file upload for file: example.pdf, Error: Error: Error creating directory
+2024-09-21T06:21:03.117Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:21:03.123Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:21:03.124Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:23:31.987Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:23:31.988Z [ERROR]: Error uploading file: test.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:23:31.989Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:23:54.026Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:23:54.028Z [ERROR]: Error uploading file: ChandanPandey-FullStackWebDeveloper-UTIw.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:23:54.029Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:24:29.458Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:24:29.464Z [ERROR]: Error uploading file: test.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:24:29.465Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:31:14.240Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:31:14.241Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:31:14.242Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:32:50.684Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:32:50.685Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:32:50.685Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:32:58.131Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:32:58.132Z [ERROR]: Error uploading file: test.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:32:58.133Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:33:54.869Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:33:54.870Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:33:54.872Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:34:24.276Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:34:24.282Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:34:24.283Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:38:21.673Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:38:21.680Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:38:21.681Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:40:44.249Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:40:44.257Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:40:44.258Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:46:05.672Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:46:05.681Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:46:05.682Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T07:04:16.446Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T07:04:16.447Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T07:04:16.448Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T09:37:10.199Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-21T09:55:07.220Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T09:55:07.243Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:00:54.018Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T10:00:54.030Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:08:25.696Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:08:25.718Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:08:35.680Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:08:35.684Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:09:56.722Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:09:56.740Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:30:21.342Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:30:21.361Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:35:37.180Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-21T10:36:11.522Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:36:11.553Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:41:44.341Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:41:44.354Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:45:28.859Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:45:28.895Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T11:25:43.631Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:25:43.642Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:26:59.404Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:26:59.423Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:28:16.538Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:28:16.558Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:32:42.735Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:32:42.749Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:35:20.771Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:35:20.787Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:37:12.168Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:37:12.179Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:45:48.164Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:45:48.175Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:45:48.182Z [ERROR]: Error checking bucket existence UnknownError
+2024-09-21T11:51:00.592Z [ERROR]: Error listing files in the bucket UnknownError
+2024-09-21T11:51:00.609Z [ERROR]: Error listing files Error listing files in the bucket
+2024-09-23T05:33:40.128Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-23T05:44:10.286Z [ERROR]: Error listing files in the bucket UnknownError
+2024-09-23T05:44:10.314Z [ERROR]: Error listing files Error listing files in the bucket
+2024-09-24T07:18:09.980Z [ERROR]: Error listing files in the bucket UnknownError
+2024-09-24T07:18:09.994Z [ERROR]: Error listing files Error listing files in the bucket
+2024-09-24T07:26:49.939Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-24T07:28:28.326Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-24T07:28:54.652Z [ERROR]: Error checking directory existence for: docs UnknownError

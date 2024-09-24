@@ -1,0 +1,319 @@
+2024-09-21T05:56:52.662Z [INFO]: Server is running on port 3000
+2024-09-21T06:02:01.567Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:02:01.568Z [INFO]: Uploading file: example.pdf to directory: docs
+2024-09-21T06:02:03.337Z [ERROR]: Error uploading file: example.pdf, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:02:03.339Z [ERROR]: Error during file upload for file: example.pdf, Error: Error: Error uploading file
+2024-09-21T06:04:51.523Z [INFO]: Server is running on port 3000
+2024-09-21T06:04:53.679Z [INFO]: Server is running on port 3000
+2024-09-21T06:04:54.968Z [INFO]: Server is running on port 3000
+2024-09-21T06:05:15.672Z [INFO]: Server is running on port 3000
+2024-09-21T06:05:17.293Z [INFO]: Server is running on port 3000
+2024-09-21T06:05:19.780Z [INFO]: Server is running on port 3000
+2024-09-21T06:05:22.941Z [INFO]: Server is running on port 3000
+2024-09-21T06:05:27.666Z [INFO]: Server is running on port 3000
+2024-09-21T06:05:29.374Z [INFO]: Server is running on port 3000
+2024-09-21T06:06:08.003Z [INFO]: Server is running on port 3000
+2024-09-21T06:06:09.379Z [INFO]: Server is running on port 3000
+2024-09-21T06:07:16.310Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:14.787Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:16.175Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:17.419Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:25.130Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:38.792Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:46.486Z [INFO]: Server is running on port 3000
+2024-09-21T06:08:54.567Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:08:55.211Z [ERROR]: Error checking if directory exists: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:08:55.213Z [INFO]: Creating directory: docs
+2024-09-21T06:08:55.390Z [ERROR]: Error creating directory: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:08:55.393Z [ERROR]: Error during file upload for file: example.pdf, Error: Error: Error creating directory
+2024-09-21T06:09:36.294Z [INFO]: Server is running on port 3000
+2024-09-21T06:11:43.823Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:11:44.518Z [ERROR]: Error checking if directory exists: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:11:44.520Z [INFO]: Creating directory: docs
+2024-09-21T06:11:44.904Z [ERROR]: Error creating directory: docs, Error: Error: char '{' is not expected.:1:1
+  Deserialization error: to see the raw response, inspect the hidden field {error}.$response on this object.
+2024-09-21T06:11:44.905Z [ERROR]: Error during file upload for file: example.pdf, Error: Error: Error creating directory
+2024-09-21T06:17:25.858Z [INFO]: Server is running on port 3000
+2024-09-21T06:17:28.206Z [INFO]: Server is running on port 3000
+2024-09-21T06:17:34.475Z [INFO]: Server is running on port 3000
+2024-09-21T06:17:35.772Z [INFO]: Server is running on port 3000
+2024-09-21T06:17:59.583Z [INFO]: Server is running on port 3000
+2024-09-21T06:18:13.129Z [INFO]: Server is running on port 3000
+2024-09-21T06:18:15.648Z [INFO]: Server is running on port 3000
+2024-09-21T06:18:18.128Z [INFO]: Server is running on port 3000
+2024-09-21T06:18:39.392Z [INFO]: Server is running on port 3000
+2024-09-21T06:18:41.336Z [INFO]: Server is running on port 3000
+2024-09-21T06:18:44.612Z [INFO]: Server is running on port 3000
+2024-09-21T06:20:29.032Z [INFO]: Server is running on port 3000
+2024-09-21T06:20:46.196Z [INFO]: Server is running on port 3000
+2024-09-21T06:21:03.107Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:21:03.113Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:21:03.117Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:21:03.123Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:21:03.124Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:23:31.983Z [INFO]: Starting file upload for file: test.pdf in directory: docs
+2024-09-21T06:23:31.985Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:23:31.987Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:23:31.988Z [ERROR]: Error uploading file: test.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:23:31.989Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:23:54.023Z [INFO]: Starting file upload for file: ChandanPandey-FullStackWebDeveloper-UTIw.pdf in directory: docs
+2024-09-21T06:23:54.025Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:23:54.026Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:23:54.028Z [ERROR]: Error uploading file: ChandanPandey-FullStackWebDeveloper-UTIw.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:23:54.029Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:24:22.775Z [INFO]: Server is running on port 3000
+2024-09-21T06:24:29.448Z [INFO]: Starting file upload for file: test.pdf in directory: docs
+2024-09-21T06:24:29.454Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:24:29.458Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:24:29.464Z [ERROR]: Error uploading file: test.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:24:29.465Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:31:14.236Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:31:14.238Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:31:14.240Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:31:14.241Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:31:14.242Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:32:50.680Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:32:50.682Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:32:50.684Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:32:50.685Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:32:50.685Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:32:58.127Z [INFO]: Starting file upload for file: test.pdf in directory: docs
+2024-09-21T06:32:58.129Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:32:58.131Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:32:58.132Z [ERROR]: Error uploading file: test.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:32:58.133Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:33:54.865Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:33:54.867Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:33:54.869Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:33:54.870Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:33:54.872Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:34:17.736Z [INFO]: Server is running on port 3000
+2024-09-21T06:34:24.267Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:34:24.272Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:34:24.276Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:34:24.282Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:34:24.283Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:37:49.267Z [INFO]: Server is running on port 3000
+2024-09-21T06:37:50.721Z [INFO]: Server is running on port 3000
+2024-09-21T06:38:21.660Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:38:21.667Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:38:21.673Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:38:21.680Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:38:21.681Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:39:02.241Z [INFO]: Server is running on port 3000
+2024-09-21T06:40:44.239Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:40:44.245Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:40:44.249Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:40:44.257Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:40:44.258Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T06:45:36.421Z [INFO]: Server is running on port 3000
+2024-09-21T06:45:51.610Z [INFO]: Server is running on port 3000
+2024-09-21T06:46:05.663Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T06:46:05.669Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T06:46:05.672Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T06:46:05.681Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T06:46:05.682Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T07:04:16.440Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T07:04:16.443Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T07:04:16.446Z [ERROR]: Error creating directory: docs Region is missing
+2024-09-21T07:04:16.447Z [ERROR]: Error uploading file: example.pdf Error creating directory: Error: Region is missing
+2024-09-21T07:04:16.448Z [ERROR]: Error uploading file Error during file upload: Error: Error creating directory: Error: Region is missing
+2024-09-21T07:13:21.408Z [INFO]: Server is running on port 3000
+2024-09-21T07:13:33.217Z [INFO]: Server is running on port 3000
+2024-09-21T07:13:44.389Z [INFO]: Server is running on port 3000
+2024-09-21T07:14:13.070Z [INFO]: Server is running on port 3000
+2024-09-21T07:14:16.693Z [INFO]: Server is running on port 3000
+2024-09-21T07:16:42.904Z [INFO]: Server is running on port 3000
+2024-09-21T07:16:56.590Z [INFO]: Server is running on port 3000
+2024-09-21T09:14:15.851Z [INFO]: Server is running on port 3000
+2024-09-21T09:14:49.798Z [INFO]: Server is running on port 3000
+2024-09-21T09:14:52.143Z [INFO]: Server is running on port 3000
+2024-09-21T09:28:37.918Z [INFO]: Server is running on port 3000
+2024-09-21T09:29:57.137Z [INFO]: Server is running on port 3000
+2024-09-21T09:32:29.078Z [INFO]: Server is running on port 3000
+2024-09-21T09:33:07.917Z [INFO]: Server is running on port 3000
+2024-09-21T09:36:34.067Z [INFO]: Server is running on port 3000
+2024-09-21T09:37:08.709Z [INFO]: Starting file upload for file: example.pdf in directory: docs
+2024-09-21T09:37:08.710Z [INFO]: S3 Region: eu2
+2024-09-21T09:37:10.199Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-21T09:37:10.200Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T09:37:11.381Z [INFO]: Directory created: docs
+2024-09-21T09:37:12.696Z [INFO]: File uploaded successfully: example.pdf in directory docs
+2024-09-21T09:37:12.697Z [INFO]: File uploaded successfully: https://eu2.contabostorage.com/hsncuexam/docs/example.pdf
+2024-09-21T09:55:06.345Z [INFO]: Listing files in directory: docs
+2024-09-21T09:55:07.220Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T09:55:07.243Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T09:57:02.491Z [INFO]: Server is running on port 3000
+2024-09-21T09:57:17.895Z [INFO]: Server is running on port 3000
+2024-09-21T09:57:19.316Z [INFO]: Server is running on port 3000
+2024-09-21T09:59:05.480Z [INFO]: Server is running on port 3000
+2024-09-21T10:00:53.157Z [INFO]: Listing files in directory: docs
+2024-09-21T10:00:54.018Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T10:00:54.030Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:06:29.787Z [INFO]: Server is running on port 3000
+2024-09-21T10:06:32.113Z [INFO]: Server is running on port 3000
+2024-09-21T10:08:10.020Z [INFO]: Server is running on port 3000
+2024-09-21T10:08:24.052Z [INFO]: Listing files in directory: docs
+2024-09-21T10:08:24.053Z [INFO]: Checking for files in directory: docs
+2024-09-21T10:08:25.696Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:08:25.697Z [WARN]: Directory docs does not exist.
+2024-09-21T10:08:25.718Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:08:34.900Z [INFO]: Listing files in directory: docs
+2024-09-21T10:08:34.901Z [INFO]: Checking for files in directory: docs
+2024-09-21T10:08:35.680Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:08:35.682Z [WARN]: Directory docs does not exist.
+2024-09-21T10:08:35.684Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:09:48.508Z [INFO]: Server is running on port 3000
+2024-09-21T10:09:55.856Z [INFO]: Listing files in directory: docs
+2024-09-21T10:09:55.857Z [INFO]: Checking for files in directory: docs
+2024-09-21T10:09:56.722Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:09:56.723Z [WARN]: Directory docs does not exist.
+2024-09-21T10:09:56.740Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:29:55.402Z [INFO]: Server is running on port 3000
+2024-09-21T10:29:59.416Z [INFO]: Server is running on port 3000
+2024-09-21T10:30:17.632Z [INFO]: Server is running on port 3000
+2024-09-21T10:30:19.644Z [INFO]: Listing files in directory: docs
+2024-09-21T10:30:19.645Z [INFO]: Checking for files in directory: docs
+2024-09-21T10:30:21.342Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:30:21.361Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:35:14.065Z [INFO]: Server is running on port 3000
+2024-09-21T10:35:36.344Z [INFO]: Starting file upload for file: example2.pdf in directory: docs
+2024-09-21T10:35:36.345Z [INFO]: S3 Region: eu2
+2024-09-21T10:35:37.180Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-21T10:35:37.181Z [INFO]: Directory docs does not exist, creating.
+2024-09-21T10:35:37.418Z [INFO]: Directory created: docs
+2024-09-21T10:35:40.798Z [INFO]: File uploaded successfully: example2.pdf in directory docs
+2024-09-21T10:35:40.799Z [INFO]: File uploaded successfully: https://eu2.contabostorage.com/hsncuexam/docs/example2.pdf
+2024-09-21T10:36:10.526Z [INFO]: Listing files in directory: docs
+2024-09-21T10:36:10.527Z [INFO]: Checking for files in directory: docs
+2024-09-21T10:36:11.522Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:36:11.553Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:41:25.815Z [INFO]: Server is running on port 3000
+2024-09-21T10:41:31.140Z [INFO]: Server is running on port 3000
+2024-09-21T10:41:43.626Z [INFO]: Listing files in directory: docs
+2024-09-21T10:41:43.627Z [INFO]: Listing files in directory: docs
+2024-09-21T10:41:44.341Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:41:44.354Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:44:55.977Z [INFO]: Server is running on port 3000
+2024-09-21T10:44:59.258Z [INFO]: Server is running on port 3000
+2024-09-21T10:45:02.278Z [INFO]: Server is running on port 3000
+2024-09-21T10:45:18.086Z [INFO]: Server is running on port 3000
+2024-09-21T10:45:19.497Z [INFO]: Server is running on port 3000
+2024-09-21T10:45:27.925Z [INFO]: Listing files in directory: docs
+2024-09-21T10:45:27.926Z [INFO]: Listing files in directory: docs
+2024-09-21T10:45:28.859Z [ERROR]: Error listing files in directory: docs
+2024-09-21T10:45:28.895Z [ERROR]: Error listing files Error listing files: NoSuchKey: UnknownError
+2024-09-21T10:45:48.393Z [INFO]: Server is running on port 3000
+2024-09-21T11:10:56.413Z [INFO]: Server is running on port 3000
+2024-09-21T11:11:00.562Z [INFO]: Server is running on port 3000
+2024-09-21T11:11:09.720Z [INFO]: Server is running on port 3000
+2024-09-21T11:11:15.033Z [INFO]: Server is running on port 3000
+2024-09-21T11:11:21.754Z [INFO]: Server is running on port 3000
+2024-09-21T11:13:41.179Z [INFO]: Server is running on port 3000
+2024-09-21T11:13:48.443Z [INFO]: Server is running on port 3000
+2024-09-21T11:13:50.886Z [INFO]: Server is running on port 3000
+2024-09-21T11:13:52.174Z [INFO]: Server is running on port 3000
+2024-09-21T11:14:01.482Z [INFO]: Server is running on port 3000
+2024-09-21T11:14:25.354Z [INFO]: Server is running on port 3000
+2024-09-21T11:14:32.485Z [INFO]: Server is running on port 3000
+2024-09-21T11:14:43.835Z [INFO]: Server is running on port 3000
+2024-09-21T11:24:57.881Z [INFO]: Server is running on port 3000
+2024-09-21T11:25:09.565Z [INFO]: Server is running on port 3000
+2024-09-21T11:25:12.724Z [INFO]: Server is running on port 3000
+2024-09-21T11:25:42.734Z [INFO]: Listing files in directory: docs
+2024-09-21T11:25:42.735Z [INFO]: Listing files in directory: docs/
+2024-09-21T11:25:43.631Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:25:43.642Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:26:53.301Z [INFO]: Server is running on port 3000
+2024-09-21T11:26:58.269Z [INFO]: Listing files in directory: docs
+2024-09-21T11:26:58.270Z [INFO]: Listing files in directory: docs/
+2024-09-21T11:26:59.404Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:26:59.423Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:27:57.974Z [INFO]: Server is running on port 3000
+2024-09-21T11:27:59.206Z [INFO]: Server is running on port 3000
+2024-09-21T11:28:03.770Z [INFO]: Server is running on port 3000
+2024-09-21T11:28:15.781Z [INFO]: Listing files in directory: docs
+2024-09-21T11:28:15.782Z [INFO]: Listing files in directory: docs/
+2024-09-21T11:28:16.538Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:28:16.558Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:32:37.896Z [INFO]: Server is running on port 3000
+2024-09-21T11:32:41.990Z [INFO]: Listing files in directory: docs
+2024-09-21T11:32:41.991Z [INFO]: Listing files in directory: /docs/
+2024-09-21T11:32:42.735Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:32:42.749Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:33:01.610Z [INFO]: Server is running on port 3000
+2024-09-21T11:35:10.229Z [INFO]: Server is running on port 3000
+2024-09-21T11:35:20.046Z [INFO]: Listing files in directory: docs
+2024-09-21T11:35:20.047Z [INFO]: Listing files in directory: docs/
+2024-09-21T11:35:20.048Z [INFO]: Sending ListObjectsV2Command: {"middlewareStack":{},"input":{"Bucket":"hsncuexam","Prefix":"docs/"}}
+2024-09-21T11:35:20.771Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:35:20.787Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:37:08.389Z [INFO]: Server is running on port 3000
+2024-09-21T11:37:11.150Z [INFO]: Listing files in directory: docs
+2024-09-21T11:37:11.151Z [INFO]: Listing files in directory: docs/
+2024-09-21T11:37:11.152Z [INFO]: Sending ListObjectsV2Command: {"middlewareStack":{},"input":{"Bucket":"hsncuexam","Prefix":"docs/"}}
+2024-09-21T11:37:12.168Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:37:12.179Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:44:40.852Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:03.794Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:09.453Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:10.483Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:20.240Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:23.836Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:25.065Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:26.232Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:41.847Z [INFO]: Server is running on port 3000
+2024-09-21T11:45:47.486Z [INFO]: Listing files in directory: docs
+2024-09-21T11:45:47.491Z [INFO]: Listing files in directory: docs/
+2024-09-21T11:45:47.492Z [INFO]: Sending ListObjectsV2Command: {"middlewareStack":{},"input":{"Bucket":"hsncuexam","Prefix":"docs/"}}
+2024-09-21T11:45:48.164Z [ERROR]: Error listing files in directory: docs UnknownError
+2024-09-21T11:45:48.175Z [ERROR]: Error listing files Error listing files
+2024-09-21T11:45:48.182Z [ERROR]: Error checking bucket existence UnknownError
+2024-09-21T11:50:20.203Z [INFO]: Server is running on port 3000
+2024-09-21T11:50:28.143Z [INFO]: Server is running on port 3000
+2024-09-21T11:50:29.264Z [INFO]: Server is running on port 3000
+2024-09-21T11:50:47.994Z [INFO]: Server is running on port 3000
+2024-09-21T11:50:59.703Z [INFO]: Listing files in directory: docs
+2024-09-21T11:51:00.592Z [ERROR]: Error listing files in the bucket UnknownError
+2024-09-21T11:51:00.609Z [ERROR]: Error listing files Error listing files in the bucket
+2024-09-23T05:33:09.067Z [INFO]: Server is running on port 3000
+2024-09-23T05:33:35.015Z [INFO]: Starting file upload for file: example3.pdf in directory: docs
+2024-09-23T05:33:35.016Z [INFO]: S3 Region: eu2
+2024-09-23T05:33:40.128Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-23T05:33:40.130Z [INFO]: Directory docs does not exist, creating.
+2024-09-23T05:33:40.400Z [INFO]: Directory created: docs
+2024-09-23T05:33:41.550Z [INFO]: File uploaded successfully: example3.pdf in directory docs
+2024-09-23T05:33:41.552Z [INFO]: File uploaded successfully: https://eu2.contabostorage.com/hsncuexam/docs/example3.pdf
+2024-09-23T05:44:09.234Z [INFO]: Listing files in directory: docs
+2024-09-23T05:44:10.286Z [ERROR]: Error listing files in the bucket UnknownError
+2024-09-23T05:44:10.314Z [ERROR]: Error listing files Error listing files in the bucket
+2024-09-23T14:07:29.031Z [INFO]: Server is running on port 3000
+2024-09-24T07:17:57.931Z [INFO]: Server is running on port 3000
+2024-09-24T07:18:09.109Z [INFO]: Listing files in directory: docs
+2024-09-24T07:18:09.980Z [ERROR]: Error listing files in the bucket UnknownError
+2024-09-24T07:18:09.994Z [ERROR]: Error listing files Error listing files in the bucket
+2024-09-24T07:26:49.314Z [INFO]: Starting file upload for file: example3.pdf in directory: docs
+2024-09-24T07:26:49.315Z [INFO]: S3 Region: eu2
+2024-09-24T07:26:49.939Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-24T07:26:49.941Z [INFO]: Directory docs does not exist, creating.
+2024-09-24T07:26:50.252Z [INFO]: Directory created: docs
+2024-09-24T07:26:51.561Z [INFO]: File uploaded successfully: example3.pdf in directory docs
+2024-09-24T07:26:51.563Z [INFO]: File uploaded successfully: https://eu2.contabostorage.com/hsncuexam/docs/example3.pdf
+2024-09-24T07:28:27.691Z [INFO]: Starting file upload for file: example4.pdf in directory: docs
+2024-09-24T07:28:27.691Z [INFO]: S3 Region: eu2
+2024-09-24T07:28:28.326Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-24T07:28:28.328Z [INFO]: Directory docs does not exist, creating.
+2024-09-24T07:28:28.603Z [INFO]: Directory created: docs
+2024-09-24T07:28:29.983Z [INFO]: File uploaded successfully: example4.pdf in directory docs
+2024-09-24T07:28:29.984Z [INFO]: File uploaded successfully: https://eu2.contabostorage.com/hsncuexam/docs/example4.pdf
+2024-09-24T07:28:54.480Z [INFO]: Starting file upload for file: example4.pdf in directory: docs
+2024-09-24T07:28:54.481Z [INFO]: S3 Region: eu2
+2024-09-24T07:28:54.652Z [ERROR]: Error checking directory existence for: docs UnknownError
+2024-09-24T07:28:54.654Z [INFO]: Directory docs does not exist, creating.
+2024-09-24T07:28:54.876Z [INFO]: Directory created: docs
+2024-09-24T07:28:55.790Z [INFO]: File uploaded successfully: example4.pdf in directory docs
+2024-09-24T07:28:55.791Z [INFO]: File uploaded successfully: https://eu2.contabostorage.com/hsncuexam/docs/example4.pdf
